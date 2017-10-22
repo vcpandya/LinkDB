@@ -5,7 +5,7 @@ You can embed this tool using [linkbase id=x] into any post or page.
 Plugin file will be hosted on http://wplinkbase.com/
 Examples will be hosted on http://linkdb.in
 
-This started as a commercial project with investment of around 20k USD where I had hired freelancer to create a Wordpress based plugin however the plugin didn't meet my expectation so I am making it opensource to get best of minds in Wordpress development. 
+This started as a commercial project with investment of around 2k USD where I had hired freelancer to create a Wordpress based plugin however the plugin didn't meet my expectation so I am making it opensource to get best of minds in Wordpress development. 
 <b>Currently plugin allows users to:</b><br>
 *Add/Edit/Delete Table heading from admin<br>
 *Block/Ban users by admin<br>
